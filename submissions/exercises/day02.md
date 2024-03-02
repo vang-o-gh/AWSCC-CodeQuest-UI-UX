@@ -13,7 +13,7 @@ Ready to include your output for **Day 2**? Let the customization begin! 🚀✨
 <!-- You may now delete and modify the content of this file -->
 
 ## Figma Basics Tutorial Link
-https://www.figma.com/file/q4A1EQ3xKrsmlEFYOYsft6/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A2157&mode=design&t=0cn47hUqWoOsYqNg-1
+[https://www.figma.com/file/q4A1EQ3xKrsmlEFYOYsft6/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A2157&mode=design&t=0cn47hUqWoOsYqNg-1](https://www.figma.com/file/q4A1EQ3xKrsmlEFYOYsft6/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A1668&mode=design&t=j5pN0AnRqoMocnMV-1)
 
 ## Single Frame Link
 https://www.figma.com/file/q4A1EQ3xKrsmlEFYOYsft6/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A2157&mode=design&t=0cn47hUqWoOsYqNg-1
