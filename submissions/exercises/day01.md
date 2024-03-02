@@ -13,8 +13,7 @@ _(just choose the questions you would like to answer and make it concise)_
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
-    Answer: Both Shopee and Lazada has features that makes it easier to find the product I'm looking for. Examples of these features     
-            include a search bar, search bar suggestions, a search filter feature, and more.
+    Answer: Both Shopee and Lazada has features that makes it easier to find the product I'm looking for. Examples of these feature include a search bar, search bar suggestions, a search filter feature, and more.
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
     Answer: Lazada has a lot of distracting elements with their product thumbnails such as their promotions.
