@@ -17,3 +17,5 @@ Ready to include your output for **Day 2**? Let the customization begin! 🚀✨
 
 ## Single Frame Link
 https://www.figma.com/file/q4A1EQ3xKrsmlEFYOYsft6/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A2157&mode=design&t=0cn47hUqWoOsYqNg-1
+
+![Product page](https://github.com/vang-o-gh/AWSCC-CodeQuest-UI-UX/assets/143880834/c82a158f-9dc0-4faf-bf40-dc7568c92b00)
