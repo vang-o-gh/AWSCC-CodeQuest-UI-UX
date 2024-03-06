@@ -13,3 +13,6 @@ Ready to include your output for **Day 6**? Let the customization begin! 🚀✨
 
 ## Figma Link
 https://www.figma.com/file/fu5U3wEjWYj1dY2yFrQDva/AWSCC-Figma-Workshop%3A-Prototype-(Community)?type=design&node-id=2%3A10687&mode=design&t=Dj7pMgSAby6buCNB-1
+
+## Reflection
+It has opened my eyes to learn how to prototype using Figma. It involves more than just designing; it involves bringing ideas to life. I can better understand how people interact with my work and for me, real-time collaboration with others has improved the process's efficiency and enjoyment. It gives me great satisfaction to watch my creation turn into interactive design by prototyping it. I'm eager to keep learning and developing because this is a journey of growth and discovery.
