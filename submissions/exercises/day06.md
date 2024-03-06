@@ -10,3 +10,6 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 Ready to include your output for **Day 6**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
+
+## Figma Link
+https://www.figma.com/file/fu5U3wEjWYj1dY2yFrQDva/AWSCC-Figma-Workshop%3A-Prototype-(Community)?type=design&node-id=2%3A10687&mode=design&t=Dj7pMgSAby6buCNB-1
